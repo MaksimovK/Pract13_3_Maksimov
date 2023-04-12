@@ -1,0 +1,11 @@
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\bin\Debug\Pract13_3.exe.config
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\bin\Debug\Pract13_3.exe
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\bin\Debug\Pract13_3.pdb
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.Properties.Resources.resources
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.csproj.GenerateResource.cache
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.exe
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.pdb
+C:\Users\kmaki\RiderProjects\Pract13_3\Pract13_3\obj\Debug\Pract13_3.Form1.resources
